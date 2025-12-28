@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "labyrinth",
+  "base_artist": "asmi",
+  "createdAt": "2025-12-28T15:42:09.008464Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Labyrinth",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Labyrinth_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Labyrinth",
+      "artist": "Zomby",
+      "has_synced": false,
+      "path": "select/02_Labyrinth_Zomby.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Labyrinth",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/03_Labyrinth_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Labyrinth",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/04_Labyrinth_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Labyrinth",
+      "artist": "Devilish Trio",
+      "has_synced": true,
+      "path": "select/05_Labyrinth_Devilish_Trio.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Labyrinth",
+      "artist": "Enter Shikari",
+      "has_synced": true,
+      "path": "select/06_Labyrinth_Enter_Shikari.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Labyrinth",
+      "artist": "Enter Shikari",
+      "has_synced": true,
+      "path": "select/07_Labyrinth_Enter_Shikari.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Labyrinth - Live In Moscow. May 2017",
+      "artist": "Enter Shikari",
+      "has_synced": false,
+      "path": "select/08_Labyrinth_-_Live_In_Moscow._May_2017_Enter_Shikari.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Labyrinth",
+      "artist": "Jack Beats",
+      "has_synced": false,
+      "path": "select/09_Labyrinth_Jack_Beats.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Labyrinth of Wrinch",
+      "artist": "Kwoon",
+      "has_synced": true,
+      "path": "select/10_Labyrinth_of_Wrinch_Kwoon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Labyrinth",
+      "artist": "Elisa",
+      "has_synced": true,
+      "path": "select/11_Labyrinth_Elisa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Labyrinth",
+      "artist": "Elisa",
+      "has_synced": true,
+      "path": "select/12_Labyrinth_Elisa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "labyrinth",
+      "artist": "asmi",
+      "has_synced": false,
+      "path": "select/pl_01_labyrinth_asmi.txt"
+    }
+  ]
+}
